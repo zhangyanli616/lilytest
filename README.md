@@ -1,2 +1,0 @@
-# lilytest
-lily test project
